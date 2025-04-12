@@ -21,7 +21,7 @@ export default function Home() {
         </ol>
 
         <div className={styles.ctas}>
-          <a
+          {/* <a
             className={styles.primary}
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
             target="_blank"
@@ -43,7 +43,7 @@ export default function Home() {
             className={styles.secondary}
           >
             Read our docs
-          </a>
+          </a> */}
         </div>
       </main>
       <footer className={styles.footer}>
